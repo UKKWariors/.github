@@ -1,6 +1,3 @@
-# GK NERIMA BACOTAN!!!
-Lk gak gelem Yo garapo dwe anjir ⚡
+# Pesan Dari Para Kontributor 
 
-Wes dikek i gratisan gagelem nerimo 😒
-
-Keplak kene Kon ngkok 🙃
+`"Dikasih hati minta jantung. Dikasih duit minta deposit. Kalau mau banyak mintalah kepada-Nya Yang Maha Pengasih, jangan kepada diriku yang masih kekurangan"`
