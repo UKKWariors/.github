@@ -39,13 +39,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_anilist: yes
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_anilist_medias: anime, manga, characters, staff, studios
-          plugin_anilist_sections: favorites
-          plugin_anilist_shuffle: yes
-          plugin_anilist_user: TheKingTermux
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
@@ -66,4 +59,4 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_repositories: yes
-          plugin_repositories_featured: tachiyomiorg/tachiyomi-extensions, TheKingTermux/tachiyomi-extensions, TheKingTermux/alice, TheKingTermux/Newbie
+          plugin_repositories_featured: UKKWariors/Website-Pengaduan-Masyarakat-Remake, UKKWariors/Website-Pengaduan-Masyarakat
