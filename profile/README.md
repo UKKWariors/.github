@@ -1,12 +1,3 @@
-# Pesan Dari Para Kontributor 
+# Tetap Bersinar: Kasih dalam Persahabatan Meski Komunitas Berakhir
 
-"Dikasih hati minta jantung.
-Dikasih duit minta deposit.
-Kalau mau banyak mintalah kepada-Nya Yang Maha Pengasih,
-jangan kepada diriku yang masih kekurangan"
-
-
-"Akan ada waktu ketika orang yang sabar menjadi muak,
-orang yang peduli menjadi masa bodoh,
-orang yang setia menjadi angkat kaki.
-Itu adalah ketika sifat sabar, peduli, dan setianya tidak dihargai"
+"Terkadang, dalam perjalanan hidup, komunitas yang kita bangun mungkin berakhir, namun nilai-nilai persahabatan yang telah kita tanam tetap mekar dalam setiap sudut hati. Meskipun pintu pertemuan fisik tertutup, jalinan yang kita bangun tetap terjaga dalam ingatan dan pengalaman yang kita bagikan bersama. Dalam kebersamaan kita, bukan hanya tempat bertemu yang memberi makna, tapi juga pengalaman, kejujuran, dan dukungan yang saling menguatkan. Jadi, meskipun langit komunitas mungkin redup, sinar persahabatan kita tetap bersinar terang, mengingatkan bahwa kita selalu memiliki satu sama lain di dalam hati dan pikiran kita."
